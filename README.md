@@ -1,2 +1,2 @@
-# cvcontreras.github.io
+# cvcontreras
 trabajo practico de programacion sobre un curriculum vitae
